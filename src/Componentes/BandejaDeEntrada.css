@@ -1,0 +1,137 @@
+/* Estilos generales de la bandeja de entrada 
+.bandeja-container {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    width: 95vw; 
+    height: 85vh; 
+    margin: 0 auto;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.bandeja-header {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+/* Botón "Escribir nuevo correo" 
+.nuevo-correo-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    align-self: flex-end;
+}
+
+.nuevo-correo-btn:hover {
+    opacity: 0.9;
+}
+
+/* Lista de correos en formato de renglones 
+.email-list {
+    flex-grow: 1;
+    overflow-y: auto;
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+}
+
+.email-item {
+    background-color: white;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.2s;
+}
+
+.email-item:hover {
+    background-color: #f0f8ff;
+}
+
+.email-preview {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.email-info {
+    flex: 1;
+    padding-right: 15px;
+}
+
+.email-info h3 {
+    font-size: 16px;
+    margin: 0;
+    color: #333;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.email-info p {
+    margin: 3px 0;
+    font-size: 14px;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.email-received-at {
+    font-size: 12px;
+    color: #999;
+    margin-left: 10px;
+}
+
+/* Botón "Escribir nuevo correo" 
+.nuevo-correo-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    align-self: flex-end;
+}
+
+.nuevo-correo-btn:hover {
+    opacity: 0.9;
+}
+
+/* Botón "Ver correo" ajustado 
+.ver-correo-btn {
+    padding: 0; 
+    width: 5cm; 
+    height: 2cm; 
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px; 
+
+.ver-correo-btn:hover {
+    opacity: 0.8;
+}
+.no-emails {
+    font-size: 18px;
+    color: #777;
+    text-align: center;
+    padding: 20px;
+}*/
